@@ -24,10 +24,10 @@ return [
         'adapters' => [
             \Models\Todo\TodoDbAdapterInterface::class => [
                 'username' => 'root',
-                'password' => 'mysql_phebian3'
+                'password' => '<YOUR DB PASSWORD>'
             ]
         ],
         'username' => 'root',
-        'password' => 'mysql_phebian3'
+        'password' => '<YOUR DB PASSWORD>'
     ]
 ];
