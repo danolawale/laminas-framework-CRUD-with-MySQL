@@ -1,0 +1,4 @@
+.fadeout {
+    opacity: 1;
+    transition: 4s opacity;
+  }
